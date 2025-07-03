@@ -1,4 +1,6 @@
-# Welcome to Remix!
+# url-shortener-fe
+
+A URL shortener frontend built with Remix.
 
 - 📖 [Remix docs](https://remix.run/docs)
 
